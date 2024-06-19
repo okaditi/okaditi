@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Singh</h1>
 
+[![](https://visitcount.itsvg.in/api?id=okaditi&icon=6&color=0)](https://visitcount.itsvg.in)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=okaditi&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
@@ -13,9 +15,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=okaditi&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-singh-9ba2201a4/) 
