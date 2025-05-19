@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+<h1 align="center">Hey coders!👋, I'm Aditi Singh</h1>
 
 [![](https://visitcount.itsvg.in/api?id=okaditi&icon=6&color=0)](https://visitcount.itsvg.in)
 
