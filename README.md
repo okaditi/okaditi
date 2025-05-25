@@ -1,9 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm <span style="color:#00c7b7">Aditi Singh</span></h1>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=okaditi&icon=6&color=0" alt="visit counter"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -63,5 +59,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Lifelong+learner+%F0%9F%93%9A;Passionate+about+tech+and+innovation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;learner;tech+and+innovation"/>
 </p>
