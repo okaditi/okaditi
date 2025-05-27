@@ -53,8 +53,8 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Full-Stack eCommerce Website">
-    <img src="https://img.shields.io/badge/Nike_Clone-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
+  <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Front-end Website">
+    <img src="https://img.shields.io/badge/Nike_Clone-Front_end-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
   </a>
   <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
     <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
