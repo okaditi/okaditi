@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=okaditi&style=flat-square&color=00C7B7" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <em>
     Passionate about transforming ideas into interactive, impactful tech.<br/>
     Engaged with <strong>Google Developer Group (GDG)</strong> @ VIT Chennai — sharing, building, growing🚀.<br/>
