@@ -75,6 +75,20 @@
 </p>
 
 ---
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://free05716.wordpress.com/">
+    <img src="https://img.shields.io/badge/Veloura_Jewels-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white" alt="Veloura Jewels"/>
+  </a>
+  <a href="https://github.com/okaditi/nike-clone">
+    <img src="https://img.shields.io/badge/Nike_Clone-Frontend-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
+  </a>
+  <a href="https://github.com/okaditi/Crypto">
+    <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto Wallet"/>
+  </a>
+</p>
+
+---
 
 <!-- Contribution Snake -->
 <!--
