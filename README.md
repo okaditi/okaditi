@@ -51,6 +51,15 @@
 
 ---
 
+## 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaditi&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okaditi&theme=shadow_green&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Front-end Website">
@@ -75,15 +84,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaditi&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okaditi&theme=shadow_green&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## ✍️ Quotes
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
@@ -95,6 +95,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-singh-9ba2201a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:aditisingh01299@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
