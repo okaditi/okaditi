@@ -51,7 +51,7 @@
 
 ---
 
-## 📈 My GitHub at a Glance
+## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaditi&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## ✍️ Quote That Guides Me
+## ✍️ Quotes
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
