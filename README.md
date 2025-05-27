@@ -1,44 +1,42 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C7B7;">Aditi Singh</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Developer+%7C+Tech+Explorer+%7C+Innovator;Proud+GDG+Member+@+VIT+Chennai;Code.+Create.+Repeat."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%7C+AI+Explorer+%7C+Tech+Storyteller;GDG+@+VIT+Chennai+|+Learning+By+Doing;Code.+Learn.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <em>
-    I’m a passionate and curious developer currently pursuing my tech journey at <strong>VIT Chennai</strong>.<br/>
-    I’m actively involved in the tech community through <strong>Google Developer Group (GDG)</strong> on campus.<br/>
-    From building scalable websites to exploring machine learning and hardware with Arduino — I love it all.<br/>
-    Always excited to learn, collaborate, and bring ideas to life through code! 🚀
+    Passionate about transforming ideas into interactive, impactful tech.<br/>
+    Engaged with <strong>Google Developer Group (GDG)</strong> @ VIT Chennai — sharing, building, growing🚀.<br/>
   </em>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=okaditi&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=okaditi&theme=shadow_green&no-frame=true&margin-w=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 My Tech Stack
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-  <!-- Web -->
+  <!-- Web Dev -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <!-- Tools & Data -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -53,23 +51,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub at a Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&hide_border=false&show_icons=true" alt="Aditi's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaditi&theme=shadow_green&layout=compact&hide_border=false" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okaditi&theme=shadow_green&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaditi&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okaditi&theme=shadow_green&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### ✍️ Developer Quote
+## ✍️ Quote That Guides Me
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-singh-9ba2201a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,7 +82,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 -->
