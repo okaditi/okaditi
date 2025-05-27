@@ -59,7 +59,7 @@
   <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
     <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
   </a>
-  <a href="https://github.com/okaditi/froggie" target="_blank" title="Froggie - Fun and Interactive Game">
+  <a href="https://github.com/okaditi/froggie" target="_blank" title="Froggie - Arduino based hardware">
     <img src="https://img.shields.io/badge/Froggie-Game-brightgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Froggie"/>
   </a>
   <a href="https://github.com/okaditi/password-protected-locking-system" target="_blank" title="Password Protected Locking System - Secure IoT Project">
