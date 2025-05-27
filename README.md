@@ -51,6 +51,30 @@
 
 ---
 
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Full-Stack eCommerce Website">
+    <img src="https://img.shields.io/badge/Nike_Clone-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
+  </a>
+  <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
+    <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
+  </a>
+  <a href="https://github.com/okaditi/froggie" target="_blank" title="Froggie - Fun and Interactive Game">
+    <img src="https://img.shields.io/badge/Froggie-Game-brightgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Froggie"/>
+  </a>
+  <a href="https://github.com/okaditi/password-protected-locking-system" target="_blank" title="Password Protected Locking System - Secure IoT Project">
+    <img src="https://img.shields.io/badge/Password_Lock-System-red?style=for-the-badge&logo=arduino&logoColor=white" alt="Password Lock"/>
+  </a>
+  <a href="https://github.com/okaditi/bite-and-bliss" target="_blank" title="Bite and Bliss - Food Delivery Website">
+    <img src="https://img.shields.io/badge/Bite_and_Bliss-Food_Delivery-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white" alt="Bite and Bliss"/>
+  </a>
+  <a href="https://free05716.wordpress.com/" target="_blank" title="Veloura Jewels WordPress site">
+    <img src="https://img.shields.io/badge/Veloura_Jewels-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white" alt="Veloura Jewels"/>
+  </a>
+</p>
+
+---
+
 ## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okaditi&theme=shadow_green&show_icons=true&hide_border=true" alt="GitHub Stats"/>
@@ -71,20 +95,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditi-singh-9ba2201a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://free05716.wordpress.com/">
-    <img src="https://img.shields.io/badge/Veloura_Jewels-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white" alt="Veloura Jewels"/>
-  </a>
-  <a href="https://github.com/okaditi/nike-clone">
-    <img src="https://img.shields.io/badge/Nike_Clone-Frontend-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
-  </a>
-  <a href="https://github.com/okaditi/Crypto">
-    <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Crypto Wallet"/>
   </a>
 </p>
 
