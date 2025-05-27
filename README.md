@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#00C7B7;">Aditi Singh</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Full-Stack+Dev+%7C+AI+Explorer+%7C+Tech+Storyteller;GDG+@+VIT+Chennai+|+Learning+By+Doing;Code.+Learn.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=GDG+@+VIT+Chennai;Code.+Learn.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
