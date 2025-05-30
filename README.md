@@ -68,6 +68,9 @@
   <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
     <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
   </a>
+  <a href="https://github.com/okaditi/margin" target="_blank" title="Margin - Bootstrap">
+    <img src="https://img.shields.io/badge/Margin-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Crypto Wallet"/>
+  </a>
   <a href="https://github.com/okaditi/froggie" target="_blank" title="Froggie - Arduino based hardware">
     <img src="https://img.shields.io/badge/Froggie-Robotic_Frog-brightgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Froggie"/>
   </a>
