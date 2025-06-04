@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Nike_Clone-Frontend-orange?style=for-the-badge&logo=react&logoColor=white" alt="Nike Clone"/>
   </a>
   <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
-    <img src="https://img.shields.io/badge/Crypto_Wallet-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
+    <img src="https://img.shields.io/badge/Crypt-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
   </a>
   <a href="https://github.com/okaditi/margin" target="_blank" title="Margin - Bootstrap">
     <img src="https://img.shields.io/badge/Margin-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Crypto Wallet"/>
