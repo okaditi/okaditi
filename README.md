@@ -63,7 +63,7 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/okaditi/Art-Chronicles" target="_blank" title="Art Chronicles - Blockchain">
-    <img src="https://img.shields.io/badge/Art_Chronicles-Blockchain-lavender?style=for-the-badge&logo=metamask&logoColor=white" alt="Art-Chronicles"/>
+    <img src="https://img.shields.io/badge/Art_Chronicles-Blockchain-lavender?style=for-the-badge&logo=ethereum&logoColor=white" alt="Art-Chronicles"/>
   </a>
   <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Front-end Website">
     <img src="https://img.shields.io/badge/Nike_Clone-Frontend-orange?style=for-the-badge&logo=css&logoColor=white" alt="Nike Clone"/>
