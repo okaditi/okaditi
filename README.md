@@ -13,7 +13,7 @@
 
 ---
 
-## 👩‍💻My Portfolio
+## 👩‍💻 My Portfolio
 [![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge&logo=github)](https://aditiport.netlify.app/)
 
 ---
