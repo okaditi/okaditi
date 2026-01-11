@@ -13,11 +13,6 @@
 
 ---
 
-## 👩‍💻 My Portfolio
-[![Portfolio Website](https://img.shields.io/badge/Visit-Portfolio-blueviolet?style=for-the-badge&logo=github)](https://aditiport.netlify.app/)
-
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=okaditi&theme=shadow_green&no-frame=true&margin-w=6" alt="GitHub Trophies"/>
