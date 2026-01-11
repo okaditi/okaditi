@@ -42,36 +42,6 @@
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/okaditi/Art-Chronicles" target="_blank" title="Art Chronicles - Blockchain">
-    <img src="https://img.shields.io/badge/Art_Chronicles-Blockchain-lavender?style=for-the-badge&logo=ethereum&logoColor=white" alt="Art-Chronicles"/>
-  </a>
-  <a href="https://github.com/okaditi/nike-clone" target="_blank" title="Nike Clone - Front-end Website">
-    <img src="https://img.shields.io/badge/Nike_Clone-Frontend-orange?style=for-the-badge&logo=css&logoColor=white" alt="Nike Clone"/>
-  </a>
-  <a href="https://github.com/okaditi/Crypto" target="_blank" title="Crypto Wallet - AI-driven Self-Destructing Wallet">
-    <img src="https://img.shields.io/badge/Crypt-Blockchain-blue?style=for-the-badge&logo=ethereum&logoColor=white" alt="Crypto Wallet"/>
-  </a>
-  <a href="https://github.com/okaditi/margin" target="_blank" title="Margin - Bootstrap">
-    <img src="https://img.shields.io/badge/Margin-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Margin"/>
-  </a>
-  <a href="https://github.com/okaditi/froggie" target="_blank" title="Froggie - Arduino based hardware">
-    <img src="https://img.shields.io/badge/Froggie-Robotic_Frog-brightgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Froggie"/>
-  </a>
-  <a href="https://github.com/okaditi/password-protected-locking-system" target="_blank" title="Password Protected Locking System - Secure IoT Project">
-    <img src="https://img.shields.io/badge/SafeKey-Digital_Lock_System-red?style=for-the-badge&logo=arduino&logoColor=white" alt="Password Lock"/>
-  </a>
-  <a href="https://github.com/okaditi/bite-and-bliss" target="_blank" title="Bite and Bliss - Food Delivery Website">
-    <img src="https://img.shields.io/badge/Bite_and_Bliss-Frontend-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white" alt="Bite and Bliss"/>
-  </a>
-  <a href="https://free05716.wordpress.com/" target="_blank" title="Veloura Jewels WordPress site">
-    <img src="https://img.shields.io/badge/Veloura_Jewels-WordPress-blueviolet?style=for-the-badge&logo=wordpress&logoColor=white" alt="Veloura Jewels"/>
-  </a>
-</p>
-
----
-
 ## ✍️ Quotes
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
