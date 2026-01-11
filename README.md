@@ -14,7 +14,9 @@
 ---
 
 ## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=okaditi&theme=gruvbox&no-frame=true)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=okaditi&theme=shadow_green&no-frame=true&margin-w=6" />
+</div>
 
 ---
 
